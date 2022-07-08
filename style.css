@@ -1,0 +1,49 @@
+body {
+    background-image: repeating-linear-gradient(rgb(151, 191, 139), rgb(179, 120, 18));
+    color: darkolivegreen;
+}
+
+.poo {
+    background-color: rgb(26, 84, 128);
+    color: rgb(236, 12, 12);
+}
+
+.poo p{
+    color: rgb(51, 231, 250);
+    font-weight: bolder;
+    font-size: 17.59px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2.593px;
+}
+
+#popo {
+    margin-top: 40;
+    width: 230;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    background-color: rgba(105, 21, 42, 0.52);
+    color: rgb(167, 114, 114);
+    border: 3.5px;
+    border-color: rgb(171, 112, 216);
+    border-style: groove;
+}
+
+#who {
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(27, 238, 139);
+    color: rgb(255, 255, 255);
+}
+
+.jojo {
+    width: 100%;
+    text-align: center;
+    text-shadow: rgb(0, 0, 0);
+    line-height: 2.5;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+    margin-bottom: 50px;
+}
